@@ -30,11 +30,11 @@ Qué otros códigos de error existen?, ¿En qué caso se manejarán?
 
 20. Cambie el formulario para que ahora en lugar de POST, use el método GET . Qué diferencia observa?
 
-*** Método GET ***
+***Método GET***
 
 ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/Servlet/src/main/resources/HTMLGet.PNG)
 
-*** Método POST ***
+***Método POST***
 
 ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/Servlet/src/main/resources/HTMLPost.PNG)
 
@@ -52,11 +52,11 @@ c. Dado la anterior, ¿Cuál es la diferencia entre los backing-beans de sesión y 
 d. Por medio de las herramientas de desarrollador del explorador (Usando la tecla "F12" en la mayoría de exploradores):
     * Ubique el código HTML generado por el servidor y busque el elemento oculto:
 
-      ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20oculto.PNG)
+![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20oculto.PNG)
 
     * En la sección de estilos, deshabilite el estilo que oculta el elemento para que sea visible.
 
-      ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20actualizado.PNG)
+![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20actualizado.PNG)
 
 # Referencias
 
