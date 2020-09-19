@@ -50,11 +50,12 @@ c. Dado la anterior, ¿Cuál es la diferencia entre los backing-beans de sesión y 
 * Los backing-beans de session crean una nueva instancia del bean por cada dispositivo que se conecte al servicio. Los de aplicación crean solo un bean independientemente de los dispositivos que se conecten al servicio
 
 d. Por medio de las herramientas de desarrollador del explorador (Usando la tecla "F12" en la mayoría de exploradores):
-    * Ubique el código HTML generado por el servidor y busque el elemento oculto:
+
+* Ubique el código HTML generado por el servidor y busque el elemento oculto:
 
 ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20oculto.PNG)
 
-    * En la sección de estilos, deshabilite el estilo que oculta el elemento para que sea visible.
+* En la sección de estilos, deshabilite el estilo que oculta el elemento para que sea visible.
 
 ![](https://github.com/Cesar-Ortiz/Lab5-CVDS/blob/master/PrimeFaces/src/main/resources/contenido%20actualizado.PNG)
 
